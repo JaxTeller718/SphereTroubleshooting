@@ -1,0 +1,678 @@
+Initialize engine version: 5.3.6p8 (c04dd374db98)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 23.21.13.8792]
+    Renderer: NVIDIA GeForce GTX 750 Ti
+    Vendor:   NVIDIA
+    VRAM:     2016 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\AmplifyMotion.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\AmplifyMotion.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\libnoise.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\libnoise.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\LogLibrary.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\LogLibrary.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\NSpeex.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\NSpeex.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\enum2int.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\enum2int.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\NCalc.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\NCalc.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\CodeProfilerRuntime.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\CodeProfilerRuntime.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\EasyAntiCheat.Client.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\EasyAntiCheat.Client.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\EasyAntiCheat.Server.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\EasyAntiCheat.Server.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.135 seconds
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Boo.Lang.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.151660 ms
+2017-10-23T19:53:56 0.011 INF [Steamworks.NET] SteamAPI_Init() ok
+2017-10-23T19:53:56 0.056 INF NET: InitCallbacks
+2017-10-23T19:53:56 0.068 INF Texture quality is set to 1
+2017-10-23T19:53:56 0.070 INF Precaching...
+2017-10-23T19:53:56 0.076 INF Precaching file: 7DaysToDie_Data/resources.assets
+2017-10-23T19:53:56 0.142 INF [EAC] Not loading, not started from launcher
+2017-10-23T19:53:59 3.863 INF Precaching file: 7DaysToDie_Data/sharedassets1.assets
+2017-10-23T19:54:00 3.909 INF Precaching file: Data/Bundles/BlockTextureAtlases
+2017-10-23T19:54:00 4.775 INF Precaching file: Data/Bundles/TerrainTextures
+2017-10-23T19:54:02 6.172 INF Precaching done
+2017-10-23T19:54:02 6.173 INF Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.517182 ms
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\SDX.Payload.dll (this message is harmless)
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\SDX.Core.dll (this message is harmless)
+SDX:  SDX detected base game directory as: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX:  Could not find sdx config file: ''. Using default settings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Mod Engine Started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Finding type refs...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading mods assembly
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Mods.dll (this message is harmless)
+SDX: Loaded!1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: GameObjectAnimalAnimationSDX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Directory C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\/Mods/SDX/Resources\Mods does not exist
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Trying ModManager directory: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\/Mods/SDX/Resources. Found: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Trying default directory: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\/Mods/SDX/Resources. Found: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\/Mods/SDX/Resources\MelterTest01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\/Mods/SDX/Resources\RaptorTest01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Begin Load mod script...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-10-23T19:54:05 9.635 INF Awake
+Localization language: english
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-10-23T19:54:05 9.702 INF Version: Alpha 16.4 (b2) Compatibility Version: Alpha 16.4, Build: Windows 64 Bit
+2017-10-23T19:54:05 9.704 INF System information:
+2017-10-23T19:54:05 9.704 INF    OS: Windows 10  (10.0.0) 64bit
+2017-10-23T19:54:05 9.705 INF    CPU: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz (cores: 4)
+2017-10-23T19:54:05 9.706 INF    RAM: 8175 MB
+2017-10-23T19:54:05 9.706 INF    GPU: NVIDIA GeForce GTX 750 Ti (2016 MB)
+2017-10-23T19:54:05 9.707 INF    Graphics API: Direct3D 9.0c [nvldumdx.dll 23.21.13.8792] (shader level 3.0)
+2017-10-23T19:54:05 9.708 INF Last played version: Alpha 16.4
+2017-10-23T19:54:05 9.709 INF Local UTC offset: -4 hours
+2017-10-23T19:54:05 9.712 INF Command line arguments: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie.exe
+2017-10-23T19:54:05 9.718 INF Not running in Big Picture Mode, no on-screen keyboard available
+2017-10-23T19:54:05 9.719 INF Starting PlayerInputManager...
+2017-10-23T19:54:05 9.749 INF InControl (version 1.6.15 build 9076, native module = False, XInput = True)
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/.\XInputInterface32
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/libXInputInterface32
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/.\libXInputInterface32
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/libXInputInterface32
+2017-10-23T19:54:06 9.947 INF Starting UserProfileManager...
+2017-10-23T19:54:06 9.991 INF Texture quality is set to 1
+2017-10-23T19:54:06 10.122 INF [MODS] Start loading
+2017-10-23T19:54:06 10.127 INF [MODS] Trying to load from SDX
+2017-10-23T19:54:06 10.197 INF [MODS] Loaded Mod: SDX (1)
+2017-10-23T19:54:06 10.198 INF [MODS] Loading done
+2017-10-23T19:54:06 10.214 INF Loading permissions file at 'C:\Users\SAMCRO\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2017-10-23T19:54:06 10.292 INF Loading permissions file done.
+2017-10-23T19:54:06 10.333 INF Awake done
+2017-10-23T19:54:06 10.637 INF Atlas reset took 197 ms
+2017-10-23T19:54:06 10.638 INF Atlas load took 303 ms
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/libc
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/SAMCRO/Desktop/SDX Game/SDXTesting/7DaysToDie_Data/Mono/libc
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 19083.
+Total: 35.879986 ms (FindLiveObjects: 2.565188 ms CreateObjectMapping: 0.865222 ms MarkObjects: 32.400124 ms  DeleteObjects: 0.046029 ms)
+
+2017-10-23T19:54:07 10.990 INF Reloading serveradmin.xml
+2017-10-23T19:54:07 10.991 INF Loading permissions file at 'C:\Users\SAMCRO\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2017-10-23T19:54:07 10.993 INF Loading permissions file done.
+2017-10-23T19:54:07 11.334 INF User joined: JaxTeller718
+2017-10-23T19:54:07 11.393 INF Texture quality is set to 1
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 54f8 -> priority: 1 
+UMA Overlay loading took 15038 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+UMA Slot loading took 5 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\Users\SAMCRO\Desktop\SDX Game\SDXTesting\7DaysToDie_Data\Managed\System.Configuration.dll (this message is harmless)
+d3d: failed to create 2D texture id=1579 w=1 h=1 mips=1 d3dfmt=894720068 [invalid call]
+d3d: failed to create 2D texture id=1583 w=1 h=1 mips=1 d3dfmt=894720068 [invalid call]
+d3d: failed to create 2D texture id=1577 w=1 h=1 mips=1 d3dfmt=894720068 [invalid call]
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Setting to default shader.
+2017-10-23T19:54:50 54.563 INF WorldStaticData.Init() needed 21.896s
+2017-10-23T19:54:56 59.926 INF [Steamworks.NET] Login ok.
+2017-10-23T19:54:56 60.112 INF AchievementManager: Received stats and achievements from Steam
+2017-10-23T19:55:03 67.288 INF NET: Starting server protocols
+2017-10-23T19:55:03 67.366 INF NET: UNET server started
+2017-10-23T19:55:03 67.533 INF NET: Unity NW server started
+2017-10-23T19:55:03 67.533 INF [Steamworks.NET] NET: Server started
+SDX: SDX ModEngine::StartModScripts
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-10-23T19:55:03 67.537 INF StartGame
+2017-10-23T19:55:04 68.137 INF Atlas reset took 376 ms
+2017-10-23T19:55:05 69.043 INF Persistent GamePrefs saved
+GamePref.AdminFileName = serveradmin.xml
+GamePref.AirDropFrequency = 72
+GamePref.AirDropMarker = True
+GamePref.AutopilotMode = 0
+GamePref.BedrollDeadZoneSize = 15
+GamePref.BlockDurabilityModifier = 100
+GamePref.BloodMoonEnemyCount = 4
+GamePref.BuildCreate = True
+GamePref.ConnectToServerIP = 45.126.208.66
+GamePref.ConnectToServerPort = 22715
+GamePref.ControlPanelEnabled = False
+GamePref.ControlPanelPort = 8080
+GamePref.CraftTimer = 
+GamePref.CreateLevelDim = 8
+GamePref.CreateLevelName = My Level
+GamePref.CreativeMenuEnabled = False
+GamePref.DayCount = 3
+GamePref.DayLightLength = 18
+GamePref.DayNightLength = 90
+GamePref.DebugMenuEnabled = False
+GamePref.DebugMenuShowTasks = False
+GamePref.DebugStopEnemiesMoving = False
+GamePref.DropOnDeath = 2
+GamePref.DropOnQuit = 0
+GamePref.DynamicSpawner = 
+GamePref.EACEnabled = False
+GamePref.EnemyDifficulty = 0
+GamePref.EnemySpawnMode = False
+GamePref.FavoriteServersList = 
+GamePref.FragLimit = 20
+GamePref.GameDifficulty = 2
+GamePref.GameGuidClient = 
+GamePref.GameMode = GameModeSurvivalSP
+GamePref.GameName = JaxTest21
+GamePref.GameNameClient = My Game
+GamePref.GameVersion = Alpha 16.4
+GamePref.GameWorld = Navezgane
+GamePref.HideCommandExecutionLog = 0
+GamePref.JoiningOptions = True
+GamePref.LandClaimDeadZone = 30
+GamePref.LandClaimDecayMode = 0
+GamePref.LandClaimExpiryTime = 3
+GamePref.LandClaimOfflineDurabilityModifier = 4
+GamePref.LandClaimOnlineDurabilityModifier = 4
+GamePref.LandClaimSize = 41
+GamePref.LastGameResetRevision = 12
+GamePref.LootAbundance = 100
+GamePref.LootRespawnDays = 30
+GamePref.LootTimer = 
+GamePref.MatchLength = 10
+GamePref.MaxSpawnedAnimals = 50
+GamePref.MaxSpawnedZombies = 60
+GamePref.MaxUncoveredMapChunksPerPlayer = 524288
+GamePref.NoGraphicsMode = False
+GamePref.OptionsAA = 0
+GamePref.OptionsAllowController = True
+GamePref.OptionsAmbientVolumeLevel = 1
+GamePref.OptionsAudioOcclusion = False
+GamePref.OptionsBackgroundGlobalOpacity = 0.9055968
+GamePref.OptionsBloom = True
+GamePref.OptionsControllerVibration = True
+GamePref.OptionsDeferredLighting = True
+GamePref.OptionsDOF = False
+GamePref.OptionsFieldOfView = 50
+GamePref.OptionsForegroundGlobalOpacity = 1
+GamePref.OptionsGamma = 0.375
+GamePref.OptionsGraphicsQuality = 3
+GamePref.OptionsGrassDistance = 0
+GamePref.OptionsHudOpacity = 0
+GamePref.OptionsHudSize = 2
+GamePref.OptionsImageEffects = False
+GamePref.OptionsInterfaceSensitivity = 0.7530304
+GamePref.OptionsInvertMouse = False
+GamePref.OptionsLODDistance = 0.5
+GamePref.OptionsMicVolumeLevel = 0.75
+GamePref.OptionsMotionBlur = 0
+GamePref.OptionsMouseSensitivity = 0.2989899
+GamePref.OptionsMusicVolumeLevel = 0.5
+GamePref.OptionsObjectBlur = False
+GamePref.OptionsOverallAudioVolumeLevel = 1
+GamePref.OptionsPlayerModel = playerMale
+GamePref.OptionsPlayerModelTexture = Player/Male/Player_male
+GamePref.OptionsReflectedShadows = False
+GamePref.OptionsReflectionBounces = 0
+GamePref.OptionsReflectionCullList = Default
+GamePref.OptionsReflectionFarClip = 3000
+GamePref.OptionsReflectionQuality = 0
+GamePref.OptionsReflectionRefreshMode = ViaScripting
+GamePref.OptionsReflectionRefreshRate = 0
+GamePref.OptionsReflectionShadowDistance = 60
+GamePref.OptionsReflectionTimeSlicingMode = IndividualFaces
+GamePref.OptionsResolution = 0
+GamePref.OptionsScreenBoundsValue = 1
+GamePref.OptionsShadowDistance = 1
+GamePref.OptionsShowCompass = True
+GamePref.OptionsShowCrosshair = True
+GamePref.OptionsSSAO = False
+GamePref.OptionsStabSpawnBlocksOnGround = True
+GamePref.OptionsSunShafts = True
+GamePref.OptionsTempCelsius = False
+GamePref.OptionsTextureQuality = 1
+GamePref.OptionsTreeQuality = 1
+GamePref.OptionsUMATextureQuality = 3
+GamePref.OptionsViewDistance = 10
+GamePref.OptionsVoiceChatEnabled = True
+GamePref.OptionsVoiceVolumeLevel = 0.75
+GamePref.OptionsVsync = 1
+GamePref.OptionsWaterParticleLimiter = 0
+GamePref.OptionsWaterQuality = 0
+GamePref.PersistentPlayerProfiles = True
+GamePref.PlayerAutologin = False
+GamePref.PlayerId = 76561198094989128
+GamePref.PlayerKillingMode = 2
+GamePref.PlayerName = JaxTeller718
+GamePref.PlayerSafeZoneHours = 7
+GamePref.PlayerSafeZoneLevel = 5
+GamePref.PlayerToken = 
+GamePref.RebuildMap = False
+GamePref.SaveGameFolder = C:\Users\SAMCRO\AppData\Roaming/7DaysToDie/Saves
+GamePref.SelectionContextMode = 0
+GamePref.SelectionOperationMode = 0
+GamePref.ServerAdminSlots = 0
+GamePref.ServerAdminSlotsPermission = 0
+GamePref.ServerDescription = 
+GamePref.ServerDisabledNetworkProtocols = 
+GamePref.ServerIP = 
+GamePref.ServerIsPublic = True
+GamePref.ServerMaxPlayerCount = 8
+GamePref.ServerName = Default Server
+GamePref.ServerPort = 26900
+GamePref.ServerReservedSlots = 0
+GamePref.ServerReservedSlotsPermission = 100
+GamePref.ServerWebsiteURL = 
+GamePref.ShowFriendPlayerOnMap = True
+GamePref.TelnetEnabled = False
+GamePref.TelnetPort = 25003
+GamePref.ZombiePlayers = True
+GamePref.ZombiesRun = 0
+GameStat.AirDropFrequency = 0
+GameStat.AirDropMarker = False
+GameStat.AnimalCount = 0
+GameStat.BlockDurabilityModifier = 1
+GameStat.BloodMoonEnemyCount = 8
+GameStat.ChunkStabilityEnabled = True
+GameStat.CraftTimer = 
+GameStat.CurrentRoundIx = 0
+GameStat.DayLightLength = 18
+GameStat.DayLimitActive = False
+GameStat.DayLimitThisRound = 0
+GameStat.Difficulty = 2
+GameStat.DropOnDeath = 1
+GameStat.DropOnQuit = 0
+GameStat.EnemyCount = 0
+GameStat.EnemyDifficulty = Normal
+GameStat.EnemySpawnMode = True
+GameStat.FragLimitActive = False
+GameStat.FragLimitThisRound = 0
+GameStat.GameDifficulty = 2
+GameStat.GameModeId = 0
+GameStat.GameState = 0
+GameStat.GlobalMessageToShow = 
+GameStat.IsCreativeMenuEnabled = False
+GameStat.IsFlyingEnabled = False
+GameStat.IsPlayerCollisionEnabled = True
+GameStat.IsPlayerDamageEnabled = True
+GameStat.IsResetMapOnRestart = False
+GameStat.IsSaveSupplyCrates = True
+GameStat.IsSpawnEnemies = True
+GameStat.IsSpawnNearOtherPlayer = False
+GameStat.IsTeleportEnabled = False
+GameStat.IsVersionCheckDone = True
+GameStat.LandClaimDeadZone = 30
+GameStat.LandClaimDecayMode = 0
+GameStat.LandClaimExpiryTime = 3
+GameStat.LandClaimOfflineDurabilityModifier = 32
+GameStat.LandClaimOnlineDurabilityModifier = 32
+GameStat.LandClaimSize = 41
+GameStat.LoadScene = 
+GameStat.LootTimer = 
+GameStat.PlayerKillingMode = KillStrangersOnly
+GameStat.ScoreDiedMultiplier = -5
+GameStat.ScorePlayerKillMultiplier = 1
+GameStat.ScoreZombieKillMultiplier = 1
+GameStat.ShowAllPlayersOnMap = False
+GameStat.ShowFriendPlayerOnMap = True
+GameStat.ShowSpawnWindow = False
+GameStat.ShowWindow = 
+GameStat.ShowZombieCounter = False
+GameStat.TimeLimitActive = False
+GameStat.TimeLimitThisRound = 0
+GameStat.TimeOfDayIncPerSec = 20
+GameStat.ZombieHordeMeter = False
+2017-10-23T19:55:05 69.130 INF StartAsServer
+2017-10-23T19:55:05 69.419 INF createWorld: Navezgane, JaxTest21, GameModeSurvivalSP
+2017-10-23T19:55:05 69.730 INF Started thread thread_Regenerating
+2017-10-23T19:55:05 69.731 INF Started thread IB
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/forest/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/plains/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/plains/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/plains/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/desert/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/desert/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/desert/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/radiated/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/radiated/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/radiated/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/wasteland/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/burnt_forest/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/burnt_forest/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/sky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/fog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/wasteland/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/wasteland/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/sky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/fog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/sky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/fog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-10-23T19:55:06 70.231 INF World.Load: Navezgane
+2017-10-23T19:55:06 70.245 WRN Loaded world file from different version: 'Alpha 14(b12)'
+2017-10-23T19:55:06 70.301 INF Started thread thread_Pathfinder
+2017-10-23T19:55:19 83.508 INF SelectionBoxManager.Instance: SelectionBoxes (SelectionBoxManager)
+2017-10-23T19:55:19 83.548 INF Started thread thread_GenerateChunks
+2017-10-23T19:55:20 84.081 INF POI image size w= 4096, h = 4096
+2017-10-23T19:55:20 84.357 INF Biomes image size w= 2048, h = 2048
+2017-10-23T19:55:20 84.509 INF Biomes image size w= 2048, h = 2048
+2017-10-23T19:55:22 86.305 INF Biomes image size w= 2048, h = 2048
+WARNING: Shader Unsupported: 'Legacy/Shader GroundPlane' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Legacy/Shader GroundPlane' - Setting to default shader.
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Stormy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Rainy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Foggy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Stormy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Rainy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Foggy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-10-23T19:55:41 104.942 INF ************************Weather Packages Created FROM BIOMES  :D ************************
+2017-10-23T19:55:43 107.391 INF createWorld() done
+2017-10-23T19:55:43 107.393 INF Loading players.xml
+2017-10-23T19:55:43 107.796 INF Loading player data
+2017-10-23T19:55:44 108.260 INF Created player with id=171
+2017-10-23T19:55:44 108.301 INF Spawning entity in world
+2017-10-23T19:55:44 108.312 INF Creating chunk observer for player
+2017-10-23T19:55:44 108.315 INF Setting ui data for local player
+2017-10-23T19:55:44 108.317 INF Loaded player
+2017-10-23T19:55:45 109.206 INF Loading vehicles
+2017-10-23T19:55:45 109.901 INF Steam in online mode: Opening steam lobby
+2017-10-23T19:55:46 109.976 INF Setting for 'DayNightLength' does not match the default (server will go to the modded category): current = 90, default = 60
+2017-10-23T19:55:46 109.977 INF Setting for 'DropOnDeath' does not match the default (server will go to the modded category): current = 2, default = 0
+2017-10-23T19:55:46 109.979 INF Setting for 'BloodMoonEnemyCount' does not match the default (server will go to the modded category): current = 4, default = 8
+2017-10-23T19:55:46 109.980 INF Setting for 'EnemySpawnMode' does not match the default (server will go to the modded category): current = False, default = True
+2017-10-23T19:55:46 109.981 INF Setting for 'BuildCreate' does not match the default (server will go to the modded category): current = True, default = False
+2017-10-23T19:55:46 109.994 INF Modified file (server will go to the modded category): Data/Config/archetypes.xml has invalid hash
+2017-10-23T19:55:46 110.047 INF Modified file (server will go to the modded category): Data/Config/biomes.xml has invalid hash
+2017-10-23T19:55:46 110.054 INF Modified file (server will go to the modded category): Data/Config/blocks.xml has invalid hash
+2017-10-23T19:55:46 110.087 INF Modified file (server will go to the modded category): Data/Config/buffs.xml has invalid hash
+2017-10-23T19:55:46 110.168 INF Modified file (server will go to the modded category): Data/Config/entityclasses.xml has invalid hash
+2017-10-23T19:55:46 110.251 INF Modified file (server will go to the modded category): Data/Config/entitygroups.xml has invalid hash
+2017-10-23T19:55:46 110.372 INF Modified file (server will go to the modded category): Data/Config/gamestages.xml has invalid hash
+2017-10-23T19:55:46 110.445 INF Modified file (server will go to the modded category): Data/Config/items.xml has invalid hash
+2017-10-23T19:55:46 110.485 INF Modified file (server will go to the modded category): Data/Config/loot.xml has invalid hash
+2017-10-23T19:55:46 110.510 INF Modified file (server will go to the modded category): Data/Config/materials.xml has invalid hash
+2017-10-23T19:55:46 110.526 INF Modified file (server will go to the modded category): Data/Config/misc.xml has invalid hash
+2017-10-23T19:55:46 110.540 INF Modified file (server will go to the modded category): Data/Config/npc.xml has invalid hash
+2017-10-23T19:55:46 110.557 INF Modified file (server will go to the modded category): Data/Config/painting.xml has invalid hash
+2017-10-23T19:55:46 110.579 INF Modified file (server will go to the modded category): Data/Config/physicsbodies.xml has invalid hash
+2017-10-23T19:55:46 110.607 INF Modified file (server will go to the modded category): Data/Config/progression.xml has invalid hash
+2017-10-23T19:55:46 110.614 INF Modified file (server will go to the modded category): Data/Config/qualityinfo.xml has invalid hash
+2017-10-23T19:55:46 110.640 INF Modified file (server will go to the modded category): Data/Config/quests.xml has invalid hash
+2017-10-23T19:55:46 110.661 INF Modified file (server will go to the modded category): Data/Config/recipes.xml has invalid hash
+2017-10-23T19:55:46 110.684 INF Modified file (server will go to the modded category): Data/Config/rwgmixer.xml has invalid hash
+2017-10-23T19:55:46 110.688 INF Modified file (server will go to the modded category): Data/Config/sounds.xml has invalid hash
+2017-10-23T19:55:46 110.689 INF Modified file (server will go to the modded category): Data/Config/spawning.xml has invalid hash
+2017-10-23T19:55:46 110.708 INF Modified file (server will go to the modded category): Data/Config/traders.xml has invalid hash
+2017-10-23T19:55:46 110.722 INF Modified file (server will go to the modded category): Data/Config/utilityai.xml has invalid hash
+2017-10-23T19:55:46 110.744 INF Modified file (server will go to the modded category): Data/Config/vehicles.xml has invalid hash
+2017-10-23T19:55:46 110.759 INF Modified file (server will go to the modded category): Data/Config/weathersurvival.xml has invalid hash
+2017-10-23T19:55:46 110.760 INF Modified file (server will go to the modded category): Data/Config/xui.xml has invalid hash
+2017-10-23T19:55:46 110.764 INF Starting game
+2017-10-23T19:55:52 116.206 INF [Steamworks.NET] GameServer.Init successful
+2017-10-23T19:55:53 117.564 INF OpenSpawnWindow
+2017-10-23T19:55:53 117.572 INF StartGame done
+2017-10-23T19:55:56 120.600 INF [Steamworks.NET] GameServer.LogOn successful, SteamID=90111612076311555
+2017-10-23T19:55:56 120.626 INF [Steamworks.NET] Trying to create Lobby
+2017-10-23T19:55:57 121.116 INF [Steamworks.NET] Lobby creation succeeded
+2017-10-23T19:55:57 121.122 INF [Steamworks.NET] Lobby entered: 109775244395640150
+2017-10-23T19:56:21 144.977 INF PlayerSpawnedInWorld (reason: NewGame, position: -81, 61, -10): localplayer
+2017-10-23T19:56:28 151.965 INF Time: 0.97m FPS: 24.92 Heap: 748.8MB Max: 748.8MB Chunks: 530 CGO: 238 Ply: 1 Zom: 0 Ent: 1 (1) Items: 0 CO: 1 RSS: 3200.9MB
+2017-10-23T19:56:34 158.247 INF Executing command 'dm'
+AddComponent asking for invalid type
+ 
+(Filename:  Line: 56)
+
+AddComponent asking for invalid type
+ 
+(Filename:  Line: 56)
+
+2017-10-23T19:56:57 181.767 INF Time: 1.47m FPS: 50.91 Heap: 781.0MB Max: 781.0MB Chunks: 550 CGO: 339 Ply: 1 Zom: 2 Ent: 3 (3) Items: 0 CO: 1 RSS: 3288.1MB
+2017-10-23T19:57:03 187.469 INF Saving 433 of chunks took 752ms
+2017-10-23T19:57:04 187.905 INF Saving 199 of chunks took 386ms
+2017-10-23T19:57:05 189.126 INF Disconnect
+2017-10-23T19:57:05 189.136 INF NET: Stopping server protocols
+2017-10-23T19:57:05 189.150 INF NET: UNET server stopped
+2017-10-23T19:57:05 189.357 INF NET: Untiy NW server stopped
+2017-10-23T19:57:05 189.359 INF [Steamworks.NET] NET: Server stopped
+2017-10-23T19:57:05 189.360 INF [NET] ServerShutdown
+2017-10-23T19:57:05 189.362 INF SaveAndCleanupWorld
+2017-10-23T19:57:06 189.911 INF Saving 175 of chunks took 306ms
+2017-10-23T19:57:06 189.923 INF [Steamworks.NET] Stopping server
+2017-10-23T19:57:07 190.976 INF [Steamworks.NET] Exiting Lobby
+2017-10-23T19:57:07 191.023 INF World.Unload
+2017-10-23T19:57:07 191.527 INF Exited thread thread_GenerateChunks
+2017-10-23T19:57:13 197.387 INF Exited thread thread_Pathfinder
+2017-10-23T19:57:13 197.390 INF World.Cleanup
+2017-10-23T19:57:13 197.391 INF Exited thread thread_Regenerating
+2017-10-23T19:57:13 197.394 INF Exited thread IB
+2017-10-23T19:57:15 199.478 INF Persistent GamePrefs saved
+2017-10-23T19:57:15 199.479 INF Cleanup
+2017-10-23T19:57:15 199.482 WRN Missing cleanup for XML: sounds
+2017-10-23T19:57:15 199.496 INF AchievementManager.Cleanup
+2017-10-23T19:57:16 200.230 INF OnApplicationQuit
