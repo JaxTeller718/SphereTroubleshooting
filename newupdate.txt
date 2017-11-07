@@ -1,0 +1,79 @@
+-The campfire is now only for basic necessities. To make more complex recipes you will need the new Advanced Campfire
+
+-New guns the Double Barrel Shotgun and Desert Eagle
+
+-New Classes Medical and Farming, older classes have been revamped. Survival now gives you exclusive access to making jars. Farming gives you access to the Composter. Medical gives you access to exclusive medical recipes. Each class gives you access to one exclusive recipe. Shotguns gives you Double Barrel, Rifles gives you the M25, Handguns gives you the Desert Eagle, Bows gives you the Crossbow Repeater, Blades gives you the Katana and Blunt gives you Lucille.
+
+-Bigger Backpack now carries 72 items
+
+-Bigger Storage Boxes
+
+-Storage Box you can write on
+
+-Halicopter you can craft will take your loot home for you!
+
+-New night terrors that only come out at night do significant damage and are hard to kill
+
+-The forge is now a basic item. To craft more complex recipes you will need an Advanced forge.
+
+-Stations for crafting armor and other items. Anvil for metal clothing and blocks, Drying Rack for curing leather and hides and making paper and Tailor Station for crafting leather and cloth armor and clothing.
+
+-New Crowbar that can be used to gain extra materials from harvesting cars
+
+-New vehicles to search including Military and Police vehicles with appropriate loot.
+
+-Dozens of new decorations like washers, dryers, tables, PC's, Cabinets, Shelves, Chairs, Sofas TVs and beds.
+
+-New BBQ Grill for making grilled food
+
+-New seeds like Apple, Tomato, Cuccumber, Carrot and Marijuana and more all with accurate models and recipes
+
+-New melee weapons to make melee fun including Katanas, Pipes, Axes, Knives and Spears
+
+-New models for Rain Catchers, Chicken Coops, Composters and Horde Beacon
+
+-Trash Can that allows you to place items in and empty them like a real trash can
+
+-Dozens of new items for scrapping found in junk
+
+-Sphereii's Transmogrifier that mixes and matches zombies of all types for a unique and scary experience
+
+-Hordes now spawn only on 21 Days giving you time to prepare and some breathing space. You still may see a red moon every 7 days though.
+
+-Skinning Knife for getting more hide and Butcher Knife for getting more meat. Also a chance at harvesting a Deer Head to make a hangable Deer Trophy.
+
+-Over 60 unique and rare posters with more being added that you can collect and hang on your wall
+
+-Harvesting items now gives Leather Strips instead of Straight Leather which must be combined to make Leather. Using a Drying Rack is now mandatory for curing all leather.
+
+-Workbench is now split into 2 benches, regular does your normal backpack recipes with no tools and no combine, Advanced does workbench only recipes with tools and has a combine feature. This is done to cut back on bench lag.
+
+-New guns based off Walkers models and new models for some brand new guns. These guns have different sounds and scopes and bring a new feel to the gun game in 7 Days.
+
+-Steel and Diamond Tipped Tools for Better harvesting late game
+
+-Steel and Diamond Minibikes
+
+-Redone Ores in Biomes. Made Biomes more important. Now you NEED to find other biomes and set up mining outposts. Snow gives more Potassium, Burnt gives more Coal and Fertilizer, Desert gives more Oil, All Forests give more Iron, Plains gives nore Lead and Wastelands give Copper, Zinc and more chances of finding Diamonds. Gravel usually leads to veins but you may need to dig around a little to find an ore.
+
+-Wastelands now have a chance to be patrolled by the Military. They only spawn in Wasteland and can be killed by zombies. Make sure you arm up before going into there.
+
+-Over 50 carefully selected POIs added along with a Police Station and Army Barracks inhabited by Armed Personnel.
+
+-New traps like fire traps, dirt traps that you can place over a hole and exploding chest traps for nosy neighbors.
+
+-Food prep Table for preparing meals and cutting meat and fish.
+
+-New stoves with models for crafting high end recipes with great stat values and less heat.
+
+-New fishing system. Now craft lures and a raft you can stand on to fish in waters and get different types of fish to cut up on the Food Prep Table and cook.
+
+-All weapon parts craftable with the Weapon Station. It is a skill you must level so that you can craft etter parts. Parts can now be scrapped into Weapon Parts and Weapon Parts are used to craft the parts in the table.
+
+-All recipes and schematics can be scrapped for Knowledge Points. kP are used in the Research Table to craft skill gains and quests as well as craft other starting classes.
+
+-Revamped opening quest line.
+
+-Seeds are now crafted in the Mortar and Pestle, which also does a few other recipes.
+
+-
