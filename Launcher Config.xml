@@ -34,8 +34,8 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/Ravenhearst7DayEdition/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/buffs.xml</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
 			</Downloads>
 		    <Description>
 			Single Player version with 7 Day Blood Moons and Weather Disabled.
@@ -54,12 +54,8 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.pdb</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Core.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Payload.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/Data/Config/gamestages.xml</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
 
 
 			</Downloads>
@@ -80,14 +76,10 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.pdb</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Core.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Payload.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/Data/Config/gamestages.xml</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/buffs.xml</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
 			</Downloads>
 		    <Description>
 			Single Player Version of Ravenhearst with Blood Moon spawning every 21 days.
@@ -106,9 +98,9 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://github.com/JaxTeller718/CleanVersion/blob/master/Data/Config/entityclasses.xml</Download>
-				<Download>https://github.com/JaxTeller718/CleanVersion/blob/master/Data/Config/entitygroups.xml</Download>
-				<Download>https://github.com/JaxTeller718/CleanVersion/blob/master/Data/Config/sounds.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entitygroups.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/sounds.xml</Download>
 			</Downloads>
 		    <Description>
 			Streamer Friendly Version of Ravenhearst 7 Days Blood Moons with removed nude zombies and removed profanity.
@@ -127,15 +119,11 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.pdb</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Core.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Payload.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/Data/Config/gamestages.xml</Download>
-				<Download>https://github.com/JaxTeller718/CleanVersion/blob/master/Data/Config/entityclasses.xml</Download>
-				<Download>https://github.com/JaxTeller718/CleanVersion/blob/master/Data/Config/entitygroups.xml</Download>
-				<Download>https://github.com/JaxTeller718/CleanVersion/blob/master/Data/Config/sounds.xml</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entityclasses.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/entitygroups.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/CleanVersion/master/Data/Config/sounds.xml</Download>
 			</Downloads>
 		    <Description>
 			Streamer Friendly Version of Ravenhearst 21 Days Blood Moons with removed nude zombies and removed profanity.
@@ -160,14 +148,10 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.pdb</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Core.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Payload.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/Data/Config/gamestages.xml</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/buffs.xml</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
 			</Downloads>
 		    <Description>
 			Testing Copy for the SDX version of Ravenhearst meant for  16.4. Still tweaking and fixing so use at your own risk. Release Version for Stable 16.4 will be coming soon!
@@ -192,14 +176,10 @@
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/Mods.pdb</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Core.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/7DaysToDie_Data/Managed/SDX.Payload.dll</Download>
-				<Download>https://github.com/JaxTeller718/21DayVersion/blob/master/Data/Config/gamestages.xml</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/buffs.xml</Download>
-				<Download>https://github.com/JaxTeller718/DisabledWeather/blob/master/Data/Config/weathersurvival.xml</Download>
+				<Download>https://github.com/JaxTeller718/21DayVersion/raw/master/7DaysToDie_Data/Managed/Assembly-CSharp.dll</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/21DayVersion/master/Data/Config/gamestages.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/buffs.xml</Download>
+				<Download>https://raw.githubusercontent.com/JaxTeller718/DisabledWeather/master/Data/Config/weathersurvival.xml</Download>
 			</Downloads>
 		    <Description>
 			Files for players of the DONA server 
