@@ -12,6 +12,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -31,6 +34,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/Ravenhearst7DayEdition/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -51,6 +57,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -73,6 +82,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -95,6 +107,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -116,6 +131,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>			
@@ -145,6 +163,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>http://blowout.bluefangsolutions.com:12013/static/index.html</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
@@ -173,6 +194,9 @@
 			<WebSite>http://dawnofthenewapocalypse.enjin.com/</WebSite>
 			<DownloadMode>Clone</DownloadMode>
 			<ReleaseNotes>http://crosscut.bluefangsolutions.com:22727/static/index.html/</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
 			<Downloads>
 				<Download>https://github.com/JaxTeller718/CLIENTFiles/archive/master.zip</Download>
 				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
