@@ -1,0 +1,1955 @@
+Initialize engine version: 5.3.6p8 (c04dd374db98)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 23.21.13.8813]
+    Renderer: NVIDIA GeForce GTX 750 Ti
+    Vendor:   NVIDIA
+    VRAM:     2017 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\AmplifyMotion.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\AmplifyMotion.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\libnoise.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\libnoise.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\LogLibrary.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\LogLibrary.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\NSpeex.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\NSpeex.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\enum2int.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\enum2int.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\NCalc.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\NCalc.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\CodeProfilerRuntime.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\CodeProfilerRuntime.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\EasyAntiCheat.Client.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\EasyAntiCheat.Client.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\EasyAntiCheat.Server.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\EasyAntiCheat.Server.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  1.882 seconds
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Boo.Lang.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 23.033247 ms
+2017-11-27T13:31:06 0.004 INF [Steamworks.NET] SteamAPI_Init() ok
+2017-11-27T13:31:06 0.220 INF [NET] Disabling protocol: UNET
+2017-11-27T13:31:06 0.224 INF NET: InitCallbacks
+2017-11-27T13:31:06 0.236 INF Texture quality is set to 2
+2017-11-27T13:31:06 0.238 INF Precaching...
+2017-11-27T13:31:06 0.277 INF Precaching file: 7DaysToDie_Data/resources.assets
+2017-11-27T13:31:08 1.490 INF [EAC] Not loading, not started from launcher
+2017-11-27T13:31:36 30.360 INF Precaching file: 7DaysToDie_Data/sharedassets1.assets
+2017-11-27T13:31:37 30.462 INF Precaching file: Data/Bundles/BlockTextureAtlases
+2017-11-27T13:31:38 32.001 INF Precaching file: Data/Bundles/TerrainTextures
+2017-11-27T13:31:39 32.401 INF Precaching done
+2017-11-27T13:31:39 32.402 INF Loading main scene
+The file 'C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/level1' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+ 
+(Filename:  Line: 223)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.166262 ms
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\SDX.Payload.dll (this message is harmless)
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\SDX.Core.dll (this message is harmless)
+SDX:  SDX detected base game directory as: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX:  Could not find sdx config file: ''. Using default settings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Mod Engine Started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Finding type refs...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading mods assembly
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Mods.dll (this message is harmless)
+SDX: Loaded!30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: AnimationSDX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntityAnimalHal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntityAnimalHalRanged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: HalHelperEvents
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Halipad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: BlockHalipad
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: DroneScript
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntityQuadcopter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: PickupState
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntityQuadcopterPickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntitySupplyCrateHal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ItemActionSpawnDroneCrate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ItemActionSpawnDroneCrate+ItemActionDataSpawnMinibike
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: BlockDynamicStorageBox
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: BlockDynamicStorageBoxSecure
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: StorageBoxScript
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: StorageBoxScriptSecure
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: BlockTrashCan
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: BlockWindmill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: WindmillLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: WindmillPowerItem
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntityZombieCopSDX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntityZombieCrawlSDX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntityZombieSDX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: EntitySupplyCrateHal+<RemoveKinimatic>d__0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: BlockWindmill+<ChangeSpeed>d__0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: BlockWindmill+<CheckAnimation>d__6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: WindmillPowerItem+<ChangeSpeed>d__0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: <PrivateImplementationDetails>{E5425862-7805-433A-8C9D-33CD22C06548}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: <PrivateImplementationDetails>{E5425862-7805-433A-8C9D-33CD22C06548}+__StaticArrayInitTypeSize=36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Directory C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Mods does not exist
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Trying ModManager directory: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources. Found: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Trying default directory: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources. Found: 303
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\AfroShamanSounds.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\AmmunitionTable.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\anvilBlock.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\APC.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Apple.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\armorAssambler.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\audio.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\axes.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\babyzombie.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\babyzombieaudio.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\battleAxe.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\batWood.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\binoculars.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\broadsword.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\buildingHut01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\candyBar01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\candyBar02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\candyBar03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\candyBar04.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Carrot.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\carrotPlant.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\ceilingFan.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\ChickenCoop.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\chickenCoopEmpty.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\chickenCoopFull.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\chickenCoopReady.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\classicCar01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\classicCar03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\classicCouch.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\coffinBlack.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\coffinBrown.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\coffinRed.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\coloringSink.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\coltPython.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\composterEmpty.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\composterFilling.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\composterFull.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\CookingPot.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\crookedFence.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\crosbowMid.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\crowBar.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\cucumber.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\cucumberPlant.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\decoratorsTable.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\deerBlind.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\deerTrophy.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\desktopPC.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Dinosaurs.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\dog01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\dog02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\dog03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\doublebarrel.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\dryerFull.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\dryingRack.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\duplet.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\electricChair.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\ElectroClub.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Fence.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\filingCabinetNew.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\flatScreenLarge.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\flatScreenSmall.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\flatScreenWall.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\flintlock.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\floorShelf1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\floorShelf2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\foodPrepTable.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\forge2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\fridgeStainlessSteel.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\fuelStorage.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Generator.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\GeneratorCop.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Grill.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Gunships.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\gunsmitherTable.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\halquadcopter.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\hamburger.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\HayStack.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\heGrenade.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\hKG3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\HKUSP.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\HumVee.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\hut.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\iMIGalil.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\IronShiv.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\ironSpear.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\jng90.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\kitchenTable1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\kitchenTable2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeDishwasher01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeDishwasher02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeDishwasher03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeShelf.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeShelf2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeStove01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeStove02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\largeStove03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\lmg.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\lockpick.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\lootTrash.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\loungeChair.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\lucille.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\lugWrench.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\M1Abrams.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\mailboxUSPS.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Mechanic.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\medicalStorage.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\metalBed.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\metalBench.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\metalPipe.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\metalRail1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\metalRail2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\michonnekatana.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\mirrorBath.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\MortarandPestle.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Motorbikes.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\mtar.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Mutant.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Mutants.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\newDishwasher01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\newDishwasher02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\newDishwasher03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\newSink1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\newSink2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Nightmares.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\nightStand.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\OilRefinery.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\oldFridge1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\oldFridge2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\oldRadio01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\oldTrunk.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\oldVan.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\OldVehicles.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\orangeBarrel.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\oven.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\painting1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\painting2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\painting3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\painting4.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\painting5.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\painting6.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\painting7.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Pan.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\PBottleBWater.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\PBottleEmpty.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\PBottleMWater.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\pickaxes.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\picnicTable.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\PinupPosters.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\pipeWrench.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\pitchFork.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedAppleTree3Harvest.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedTomato1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedTomato3Harvest.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedWeed1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedWeed2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedWeed3Harvest.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedWheat1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedWheat2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\plantedWheat3Harvest.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster10.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster11.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster12.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster13.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster14.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster15.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster16.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster17.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster18.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster19.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster20.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster21.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster22.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster23.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster24.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster25.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster26.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster27.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster28.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster29.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster30.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster31.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster32.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster33.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster34.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster35.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster36.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster37.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster38.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster39.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster4.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster40.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster41.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster42.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster43.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster44.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster45.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster46.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster47.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster48.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster49.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster5.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster50.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster51.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster52.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster53.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster54.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster55.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster56.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster57.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster6.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster7.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster8.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\poster9.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\pottedPlant1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\pottedPlant2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\pottedPlant3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\pottedPlant4.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\questBoard.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\rainCatcherEmpty.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\rainCatcherFull.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\RoadBlocks.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\safes.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\ScrapIronGate3x2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\ScrIrGate2x3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\scythe.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Sewercap.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\sfx.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\sfxsilenced.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\sickle.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\skinningKnife.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\skullCoinBone.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\skullCoinBronze.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\skullCoinCopper.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\skullCoinGold.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\skullCoinRust.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\skullCoinSteel.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\smallStove01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\smallStove02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\smallStove03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter4.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter5.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter6.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter7.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\soaposter8.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\SoundsZombieChildren.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\SoundsZombieGrowls.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\SoundsZombies.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\SoundsZombieTeeth.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\steelShovel.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\steelSpear.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\stoneFence.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\stoneKnife.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\stonePost.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\StorageBoxCustomLabel.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\studyDesk.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Table.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tableWood1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tableWood2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\TailorStation.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Tankcar.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Tomato.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tombstoneLarge01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tombstoneLarge02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tombstoneLarge03.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tombstoneLarge04.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\trackerKnife.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\traderTable.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\traps.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\trellis.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\turningLathe.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tv70Large.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tv90Large.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tvFloorLarge.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\tvStand.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\utilityknives.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\vanity.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\veicles.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\vSSVintorez.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\wallShelf1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\wallShelf2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\wallShelf3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\wallShelf4.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\wallShelf5.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\washingMachine01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\washingMachine02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\waterWell.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\Windmill.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\woodCounter01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\woodenBarrels.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\woodenDresser1.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\WoodGate2x3.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\WoodGate3x2.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\woodSink01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\woodSink02.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\woodSpear.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\zombieMechanic01.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Loading bundle... C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\/Mods/SDX/Resources\ZombiePinups.unity3d
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: Begin Load mod script...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-11-27T13:33:47 161.033 INF Awake
+Unable to add 'pouredConcreteQuarter' to the Localization dictionary.
+An element with the same key already exists in the dictionary.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Localization language: english
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-11-27T13:33:47 161.303 INF Version: Alpha 16.4 (b8) Compatibility Version: Alpha 16.4, Build: Windows 64 Bit
+2017-11-27T13:33:47 161.304 INF System information:
+2017-11-27T13:33:47 161.318 INF    OS: Windows 10  (10.0.0) 64bit
+2017-11-27T13:33:47 161.319 INF    CPU: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz (cores: 4)
+2017-11-27T13:33:47 161.320 INF    RAM: 8175 MB
+2017-11-27T13:33:47 161.320 INF    GPU: NVIDIA GeForce GTX 750 Ti (2017 MB)
+2017-11-27T13:33:47 161.321 INF    Graphics API: Direct3D 9.0c [nvldumdx.dll 23.21.13.8813] (shader level 3.0)
+2017-11-27T13:33:47 161.322 INF Last played version: Alpha 16.4
+2017-11-27T13:33:47 161.323 INF Local UTC offset: -5 hours
+2017-11-27T13:33:47 161.325 INF Command line arguments: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie.exe -nounet
+2017-11-27T13:33:47 161.332 INF Not running in Big Picture Mode, no on-screen keyboard available
+2017-11-27T13:33:47 161.334 INF Starting PlayerInputManager...
+2017-11-27T13:33:48 161.451 INF InControl (version 1.6.15 build 9076, native module = False, XInput = True)
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/.\XInputInterface32
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/libXInputInterface32
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/.\libXInputInterface32
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/libXInputInterface32
+2017-11-27T13:33:48 161.834 INF Starting UserProfileManager...
+2017-11-27T13:33:48 161.875 INF Texture quality is set to 2
+2017-11-27T13:33:48 162.224 INF [MODS] Start loading
+2017-11-27T13:33:48 162.226 INF [MODS] Trying to load from SDX
+2017-11-27T13:33:48 162.292 INF [MODS] Loaded Mod: SDX (1)
+2017-11-27T13:33:48 162.293 INF [MODS] Trying to load from SMX
+2017-11-27T13:33:48 162.296 INF [MODS] Loaded Mod: SMX (A16.4B8R1)
+2017-11-27T13:33:48 162.297 INF [MODS] Loading done
+2017-11-27T13:33:49 162.382 INF Loading permissions file at 'C:\Users\SAMCRO\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2017-11-27T13:33:49 162.447 INF Loading permissions file done.
+2017-11-27T13:33:49 162.476 INF Awake done
+2017-11-27T13:33:49 162.711 INF Atlas reset took 160 ms
+2017-11-27T13:33:49 162.712 INF Atlas load took 234 ms
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/libc
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/.\libc
+Fallback handler could not load library C:/7D2D/Dawn_of_the_New_Apocalypse/Ravenhearst_Test_Server/7DaysToDie_Data/Mono/libc
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 19384.
+Total: 69.912102 ms (FindLiveObjects: 1.078886 ms CreateObjectMapping: 0.368233 ms MarkObjects: 68.415833 ms  DeleteObjects: 0.045096 ms)
+
+2017-11-27T13:33:50 163.384 INF Reloading serveradmin.xml
+2017-11-27T13:33:50 163.384 INF Loading permissions file at 'C:\Users\SAMCRO\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2017-11-27T13:33:50 163.386 INF Loading permissions file done.
+2017-11-27T13:33:50 163.454 INF User joined: JaxTeller718
+2017-11-27T13:33:50 163.646 INF Texture quality is set to 2
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2cbc -> priority: 1 
+Platform assembly: C:\7D2D\Dawn_of_the_New_Apocalypse\Ravenhearst_Test_Server\7DaysToDie_Data\Managed\System.Configuration.dll (this message is harmless)
+UMA Overlay loading took 10919 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+UMA Slot loading took 3 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+d3d: failed to create 2D texture id=1585 w=1 h=1 mips=1 d3dfmt=894720068 [invalid call]
+d3d: failed to create 2D texture id=1589 w=1 h=1 mips=1 d3dfmt=894720068 [invalid call]
+d3d: failed to create 2D texture id=1583 w=1 h=1 mips=1 d3dfmt=894720068 [invalid call]
+Loading helipads
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Setting to default shader.
+2017-11-27T13:35:02 235.549 INF WorldStaticData.Init() needed 54.496s
+2017-11-27T13:35:15 248.673 INF [Steamworks.NET] Login ok.
+2017-11-27T13:35:15 249.048 INF AchievementManager: Received stats and achievements from Steam
+2017-11-27T13:36:33 327.030 INF Started thread ServerBrowserListUpdater
+2017-11-27T13:37:05 358.742 INF Connecting to server 45.126.208.66:22715...
+2017-11-27T13:37:05 358.745 INF NET: Unity NW trying to connect to: 45.126.208.66:22715
+2017-11-27T13:37:05 358.787 INF Exited thread ServerBrowserListUpdater
+6595:IOCR, ID_OPEN_CONNECTION_REQUEST
+2017-11-27T13:37:06 359.376 INF [Steamworks.NET] Auth.GetAuthTicket()
+2017-11-27T13:37:06 359.587 INF Login: WaitingForSteam
+2017-11-27T13:37:06 359.881 INF Login: Authenticated
+2017-11-27T13:37:06 359.915 INF Player allowed
+2017-11-27T13:37:06 359.918 INF [Steamworks.NET] AddFavorite: 2
+2017-11-27T13:37:06 359.919 INF [Steamworks.NET] Trying to create Lobby
+SDX: SDX ModEngine::StartModScripts
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-11-27T13:37:06 359.940 INF StartGame
+2017-11-27T13:37:06 360.333 INF [Steamworks.NET] Lobby creation succeeded
+2017-11-27T13:37:06 360.347 INF [Steamworks.NET] Lobby entered: 109775244474686790
+2017-11-27T13:37:07 361.167 INF Atlas reset took 816 ms
+2017-11-27T13:37:19 372.363 INF Atlas resized to fit more icons. Old 1561 icons, 4096x4096, now 2731 icons, 8192x4096
+2017-11-27T13:37:19 373.171 INF Adding 1171 sprites to atlas took 12822 ms
+2017-11-27T13:37:21 374.494 INF Persistent GamePrefs saved
+GamePref.AdminFileName = serveradmin.xml
+GamePref.AirDropFrequency = 72
+GamePref.AirDropMarker = True
+GamePref.AutopilotMode = 0
+GamePref.BedrollDeadZoneSize = 15
+GamePref.BlockDurabilityModifier = 100
+GamePref.BloodMoonEnemyCount = 16
+GamePref.BuildCreate = True
+GamePref.ConnectToServerIP = 45.126.208.66
+GamePref.ConnectToServerPort = 22715
+GamePref.ControlPanelEnabled = False
+GamePref.ControlPanelPort = 8080
+GamePref.CraftTimer = 
+GamePref.CreateLevelDim = 8
+GamePref.CreateLevelName = My Level
+GamePref.CreativeMenuEnabled = False
+GamePref.DayCount = 3
+GamePref.DayLightLength = 18
+GamePref.DayNightLength = 120
+GamePref.DebugMenuEnabled = False
+GamePref.DebugMenuShowTasks = False
+GamePref.DebugStopEnemiesMoving = False
+GamePref.DropOnDeath = 2
+GamePref.DropOnQuit = 0
+GamePref.DynamicSpawner = 
+GamePref.EACEnabled = False
+GamePref.EnemyDifficulty = 0
+GamePref.EnemySpawnMode = True
+GamePref.FavoriteServersList = 
+GamePref.FragLimit = 20
+GamePref.GameDifficulty = 2
+GamePref.GameGuidClient = 
+GamePref.GameMode = SurvivalMP
+GamePref.GameName = 205Tests
+GamePref.GameNameClient = My Game
+GamePref.GameVersion = Alpha 16.4
+GamePref.GameWorld = Random Gen
+GamePref.HideCommandExecutionLog = 0
+GamePref.JoiningOptions = True
+GamePref.LandClaimDeadZone = 30
+GamePref.LandClaimDecayMode = 0
+GamePref.LandClaimExpiryTime = 3
+GamePref.LandClaimOfflineDurabilityModifier = 4
+GamePref.LandClaimOnlineDurabilityModifier = 4
+GamePref.LandClaimSize = 41
+GamePref.LastGameResetRevision = 12
+GamePref.LootAbundance = 100
+GamePref.LootRespawnDays = 15
+GamePref.LootTimer = 
+GamePref.MatchLength = 10
+GamePref.MaxSpawnedAnimals = 50
+GamePref.MaxSpawnedZombies = 60
+GamePref.MaxUncoveredMapChunksPerPlayer = 524288
+GamePref.NoGraphicsMode = False
+GamePref.OptionsAA = 0
+GamePref.OptionsAllowController = True
+GamePref.OptionsAmbientVolumeLevel = 1
+GamePref.OptionsAudioOcclusion = False
+GamePref.OptionsBackgroundGlobalOpacity = 0.9055968
+GamePref.OptionsBloom = True
+GamePref.OptionsControllerVibration = True
+GamePref.OptionsDeferredLighting = True
+GamePref.OptionsDOF = False
+GamePref.OptionsFieldOfView = 50
+GamePref.OptionsForegroundGlobalOpacity = 1
+GamePref.OptionsGamma = 0.375
+GamePref.OptionsGraphicsQuality = 3
+GamePref.OptionsGrassDistance = 0
+GamePref.OptionsHudOpacity = 0
+GamePref.OptionsHudSize = 2
+GamePref.OptionsImageEffects = False
+GamePref.OptionsInterfaceSensitivity = 0.7530304
+GamePref.OptionsInvertMouse = False
+GamePref.OptionsLODDistance = 0.5
+GamePref.OptionsMicVolumeLevel = 0.75
+GamePref.OptionsMotionBlur = 0
+GamePref.OptionsMouseSensitivity = 0.2989899
+GamePref.OptionsMusicVolumeLevel = 0.5
+GamePref.OptionsObjectBlur = False
+GamePref.OptionsOverallAudioVolumeLevel = 1
+GamePref.OptionsPlayerModel = playerMale
+GamePref.OptionsPlayerModelTexture = Player/Male/Player_male
+GamePref.OptionsReflectedShadows = False
+GamePref.OptionsReflectionBounces = 0
+GamePref.OptionsReflectionCullList = Default
+GamePref.OptionsReflectionFarClip = 3000
+GamePref.OptionsReflectionQuality = 0
+GamePref.OptionsReflectionRefreshMode = ViaScripting
+GamePref.OptionsReflectionRefreshRate = 0
+GamePref.OptionsReflectionShadowDistance = 60
+GamePref.OptionsReflectionTimeSlicingMode = IndividualFaces
+GamePref.OptionsResolution = 0
+GamePref.OptionsScreenBoundsValue = 1
+GamePref.OptionsShadowDistance = 1
+GamePref.OptionsShowCompass = True
+GamePref.OptionsShowCrosshair = True
+GamePref.OptionsSSAO = False
+GamePref.OptionsStabSpawnBlocksOnGround = True
+GamePref.OptionsSunShafts = True
+GamePref.OptionsTempCelsius = False
+GamePref.OptionsTextureQuality = 2
+GamePref.OptionsTreeQuality = 0
+GamePref.OptionsUMATextureQuality = 3
+GamePref.OptionsViewDistance = 10
+GamePref.OptionsVoiceChatEnabled = True
+GamePref.OptionsVoiceVolumeLevel = 0.75
+GamePref.OptionsVsync = 1
+GamePref.OptionsWaterParticleLimiter = 0
+GamePref.OptionsWaterQuality = 0
+GamePref.PersistentPlayerProfiles = True
+GamePref.PlayerAutologin = False
+GamePref.PlayerId = 76561198094989128
+GamePref.PlayerKillingMode = 2
+GamePref.PlayerName = JaxTeller718
+GamePref.PlayerSafeZoneHours = 7
+GamePref.PlayerSafeZoneLevel = 5
+GamePref.PlayerToken = 
+GamePref.RebuildMap = False
+GamePref.SaveGameFolder = C:\Users\SAMCRO\AppData\Roaming/7DaysToDie/Saves
+GamePref.SelectionContextMode = 0
+GamePref.SelectionOperationMode = 0
+GamePref.ServerAdminSlots = 0
+GamePref.ServerAdminSlotsPermission = 0
+GamePref.ServerDescription = 
+GamePref.ServerDisabledNetworkProtocols = 
+GamePref.ServerIP = 
+GamePref.ServerIsPublic = True
+GamePref.ServerMaxPlayerCount = 8
+GamePref.ServerName = Default Server
+GamePref.ServerPort = 26900
+GamePref.ServerReservedSlots = 0
+GamePref.ServerReservedSlotsPermission = 100
+GamePref.ServerWebsiteURL = 
+GamePref.ShowFriendPlayerOnMap = True
+GamePref.TelnetEnabled = False
+GamePref.TelnetPort = 25003
+GamePref.ZombiePlayers = True
+GamePref.ZombiesRun = 1
+GameStat.AirDropFrequency = 0
+GameStat.AirDropMarker = False
+GameStat.AnimalCount = 0
+GameStat.BlockDurabilityModifier = 1
+GameStat.BloodMoonEnemyCount = 8
+GameStat.ChunkStabilityEnabled = True
+GameStat.CraftTimer = 
+GameStat.CurrentRoundIx = 0
+GameStat.DayLightLength = 18
+GameStat.DayLimitActive = False
+GameStat.DayLimitThisRound = 0
+GameStat.Difficulty = 2
+GameStat.DropOnDeath = 1
+GameStat.DropOnQuit = 0
+GameStat.EnemyCount = 0
+GameStat.EnemyDifficulty = Normal
+GameStat.EnemySpawnMode = True
+GameStat.FragLimitActive = False
+GameStat.FragLimitThisRound = 0
+GameStat.GameDifficulty = 2
+GameStat.GameModeId = 0
+GameStat.GameState = 0
+GameStat.GlobalMessageToShow = 
+GameStat.IsCreativeMenuEnabled = False
+GameStat.IsFlyingEnabled = False
+GameStat.IsPlayerCollisionEnabled = True
+GameStat.IsPlayerDamageEnabled = True
+GameStat.IsResetMapOnRestart = False
+GameStat.IsSaveSupplyCrates = True
+GameStat.IsSpawnEnemies = True
+GameStat.IsSpawnNearOtherPlayer = False
+GameStat.IsTeleportEnabled = False
+GameStat.IsVersionCheckDone = True
+GameStat.LandClaimDeadZone = 30
+GameStat.LandClaimDecayMode = 0
+GameStat.LandClaimExpiryTime = 3
+GameStat.LandClaimOfflineDurabilityModifier = 32
+GameStat.LandClaimOnlineDurabilityModifier = 32
+GameStat.LandClaimSize = 41
+GameStat.LoadScene = 
+GameStat.LootTimer = 
+GameStat.PlayerKillingMode = KillStrangersOnly
+GameStat.ScoreDiedMultiplier = -5
+GameStat.ScorePlayerKillMultiplier = 1
+GameStat.ScoreZombieKillMultiplier = 1
+GameStat.ShowAllPlayersOnMap = False
+GameStat.ShowFriendPlayerOnMap = True
+GameStat.ShowSpawnWindow = False
+GameStat.ShowWindow = 
+GameStat.ShowZombieCounter = False
+GameStat.TimeLimitActive = False
+GameStat.TimeLimitThisRound = 0
+GameStat.TimeOfDayIncPerSec = 20
+GameStat.ZombieHordeMeter = False
+2017-11-27T13:37:21 374.574 INF StartAsClient
+2017-11-27T13:37:21 374.575 INF Sending RequestToEnterGame...
+2017-11-27T13:37:21 374.582 INF StartGame done
+2017-11-27T13:37:25 378.715 INF Received config file 'materials' from server. Len: 56916
+2017-11-27T13:37:25 378.726 INF Received config file 'physicsbodies' from server. Len: 87938
+2017-11-27T13:37:25 378.740 INF Received config file 'blocks' from server. Len: 1050002
+2017-11-27T13:37:26 379.953 INF Received config file 'painting' from server. Len: 32493
+2017-11-27T13:37:26 379.958 INF Received config file 'buffs' from server. Len: 62717
+2017-11-27T13:37:26 379.966 INF Received config file 'misc' from server. Len: 5669
+2017-11-27T13:37:26 379.968 INF Received config file 'items' from server. Len: 1006959
+2017-11-27T13:37:27 380.422 INF Received config file 'entityclasses' from server. Len: 270939
+2017-11-27T13:37:27 380.672 INF Received config file 'utilityai' from server. Len: 9602
+2017-11-27T13:37:27 380.675 INF Received config file 'qualityinfo' from server. Len: 281
+2017-11-27T13:37:27 380.675 INF Received config file 'sounds' from server. Len: 371099
+2017-11-27T13:37:27 380.676 WRN Missing cleanup for XML: sounds
+2017-11-27T13:37:27 380.730 INF Received config file 'recipes' from server. Len: 319902
+2017-11-27T13:37:27 380.861 INF Received config file 'loot' from server. Len: 157268
+2017-11-27T13:37:27 380.881 INF Received config file 'entitygroups' from server. Len: 616051
+2017-11-27T13:37:27 380.943 INF Received config file 'vehicles' from server. Len: 6676
+2017-11-27T13:37:27 380.944 INF Received config file 'weathersurvival' from server. Len: 4747
+2017-11-27T13:37:27 380.945 INF Received config file 'progression' from server. Len: 167930
+2017-11-27T13:37:27 381.000 INF Received config file 'archetypes' from server. Len: 748146
+2017-11-27T13:37:28 381.388 INF Received config file 'quests' from server. Len: 103915
+2017-11-27T13:37:28 381.403 INF Received config file 'traders' from server. Len: 42955
+2017-11-27T13:37:28 381.408 INF Received config file 'npc' from server. Len: 1734
+2017-11-27T13:37:28 381.411 INF Received config file 'XUi/styles' from server. Len: 28475
+2017-11-27T13:37:28 381.414 INF Received config file 'XUi/controls' from server. Len: 79452
+2017-11-27T13:37:28 381.424 INF Received config file 'XUi/windows' from server. Len: 277599
+2017-11-27T13:37:28 381.447 INF Received config file 'xui' from server. Len: 39412
+2017-11-27T13:37:28 381.449 INF Received config file 'rwgmixer' from server. Len: 33592
+2017-11-27T13:37:28 381.453 INF Received game GUID: A98891EEAD009940BE9D6984E76DF662
+2017-11-27T13:37:28 381.514 INF createWorld: Random Gen, R2-D21976, GameModeSurvivalMP
+2017-11-27T13:37:28 382.072 INF Started thread thread_Regenerating
+2017-11-27T13:37:28 382.073 INF Started thread HQ
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/desert/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/desert/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/desert/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/radiated/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/radiated/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/radiated/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/pine_forest/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/sky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/fog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/city/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/wasteland/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/wasteland/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/sky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/fog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveFloor/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/sky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/moon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/fog
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/caveCeiling/fogfade
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-11-27T13:37:29 382.574 INF World.Load: Random Gen
+WARNING: Shader Unsupported: 'Legacy/Shader GroundPlane' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Legacy/Shader GroundPlane' - Setting to default shader.
+2017-11-27T13:37:29 382.820 INF SelectionBoxManager.Instance: SelectionBoxes (SelectionBoxManager)
+2017-11-27T13:37:29 382.829 INF Started thread thread_GenerateChunks
+2017-11-27T13:37:29 382.895 INF Loading and parsing of generator took 65ms
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Stormy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Rainy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Foggy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Stormy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Rainy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/Foggy/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/ambient
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+SDX: ResourceWrapper - Failed to load asset: Textures/Environment/Spectrums/BloodMoon/sun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+2017-11-27T13:37:53 406.603 INF createWorld() done
