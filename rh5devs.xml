@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<Servers >
+	<!-- Server Group will encompass a single group running multiple servers -->
+	<ServerGroup Name="Ravenhearst 5" Logo="https://i.imgur.com/P1IUjSg.png">
+
+	
+
+		 	<Server Name="v5.0.0b1" Logo="https://i.imgur.com/P1IUjSg.png">
+			<Version>v4.3</Version>
+			<Admin>JaxTeller718</Admin>
+			<AdminContact>jaxteller718@gmail.com</AdminContact>
+			<WebSite>https://ravenhearst.enjin.com/</WebSite>
+			<DownloadMode>Clone</DownloadMode>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?76822-Ravenhearst-Mod</ReleaseNotes>
+			<Excludes>
+				<Exclude>7DaysToDieServer_Data</Exclude>
+			</Excludes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/miskatonic.git</Download>
+			</Downloads>
+		    <Description>
+			Default Version of 14 Day Blood Moons of Ravenhearst 5
+			</Description>
+		</Server>
+
+
+
+		
+
+
+		
+	</ServerGroup>
+</Servers>
